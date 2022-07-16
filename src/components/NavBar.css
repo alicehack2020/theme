@@ -1,0 +1,11 @@
+.flex{
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    color: aqua;
+}
+
+.theme{
+    cursor: pointer;
+    
+}
